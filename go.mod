@@ -1,4 +1,4 @@
-module pekoIM
+module github.com/dpwgc/pekoIM
 
 go 1.17
 
